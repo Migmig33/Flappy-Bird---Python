@@ -1,2 +1,3 @@
-# flappybirdJAVAGUI
-my 1st game
+### Flappy Bird - Python
+
+Flappy Bird a OOP
