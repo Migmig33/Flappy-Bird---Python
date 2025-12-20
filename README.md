@@ -67,7 +67,7 @@ cd project-name
 
 **Published** May 2025
 
-**Project Link:** [[https://github.com/Migmig33/eManagePro](https://github.com/Migmig33/eManagePro)](https://github.com/Migmig33/Flappy-Bird---Python.git)
+**Project Link:** [(https://github.com/Migmig33/Flappy-Bird---Python.git))
 
 
 
