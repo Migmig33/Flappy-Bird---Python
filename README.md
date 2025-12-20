@@ -54,8 +54,8 @@ cd project-name
 
 ## Screenshot
 **Main Menu**
-<img width="726" height="947" alt="image" src="https://github.com/user-attachments/assets/61a1fc8c-9d0b-4146-9757-8e86f8a080a1" />
+<img width="726" height="946" alt="image" src="https://github.com/user-attachments/assets/61a1fc8c-9d0b-4146-9757-8e86f8a080a1" />
 **Game Running**
-<img width="728" height="947" alt="image" src="https://github.com/user-attachments/assets/0ea0bc00-c7b4-4cde-ab35-358c0648e155" />
+<img width="726" height="946" alt="image" src="https://github.com/user-attachments/assets/0ea0bc00-c7b4-4cde-ab35-358c0648e155" />
 **Game Over**
-<img width="727" height="946" alt="image" src="https://github.com/user-attachments/assets/387ed289-5a08-498b-a067-39da46a56de5" />
+<img width="726" height="946" alt="image" src="https://github.com/user-attachments/assets/387ed289-5a08-498b-a067-39da46a56de5" />
