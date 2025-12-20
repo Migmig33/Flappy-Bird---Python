@@ -56,3 +56,19 @@ cd project-name
 <img width="726" height="946" alt="image" src="https://github.com/user-attachments/assets/61a1fc8c-9d0b-4146-9757-8e86f8a080a1" />
 <img width="726" height="946" alt="image" src="https://github.com/user-attachments/assets/0ea0bc00-c7b4-4cde-ab35-358c0648e155" />
 <img width="726" height="946" alt="image" src="https://github.com/user-attachments/assets/387ed289-5a08-498b-a067-39da46a56de5" />
+
+
+
+## 📞 Contact
+
+**Developer:** Miguel Andrei C Tan
+
+**Email:** migztan66@gmail.com
+
+**Published** May 2025
+
+**Project Link:** [[https://github.com/Migmig33/eManagePro](https://github.com/Migmig33/eManagePro)](https://github.com/Migmig33/Flappy-Bird---Python.git)
+
+
+
+
