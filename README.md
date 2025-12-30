@@ -2,22 +2,22 @@
 
 A fully functional 2D side-scrolling game built with python and PyGame, inspired by the classic game mobile hit Flappy Bird. This project demonstrates core game development concepts including physics simulation and collision detection.
 
-## 🚀 Features
+## Features
 - Dynamic Physics: Implements gravity and jumps mechanics for player-controlled bird
 - Scoring System: Tracks and display score if the bird passed through the pipes
 - Restart Mechanic: A custom-built UI button class the allows player to reset the game without restarting the program
 - Procedural Obstacles: Randomly generated pipes that scroll across the screen at varying heights.
 
-## 🎮 Controls
+## Controls
 - Left Mouse Click: Make the bird fly/jump
 - Restart Button: Reset the game if the game is over
 
 
-## 🛠️ Technologies Used
+## Technologies Used
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyGame](https://img.shields.io/badge/PyGame-00A86B?style=for-the-badge&logo=python&logoColor=white)
 
-## 📂 Project Structure
+## Project Structure
 ```
 
 FlappyBird/
@@ -36,7 +36,7 @@ FlappyBird/
 └── README.md            # Project documentation
 
 ```
-## 🚀 Installation 
+## Installation 
 
 ### 1. Clonse Repository
 ```bash
@@ -59,7 +59,7 @@ cd project-name
 
 
 
-## 📞 Contact
+## Contact
 
 **Developer:** Miguel Andrei C Tan
 
